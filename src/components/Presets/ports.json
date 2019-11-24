@@ -3,6 +3,6 @@
     "port": 3333
   },
   "rpc": {
-    "rpcport": 8332
+    "rpcport": 3332
   }
 }
