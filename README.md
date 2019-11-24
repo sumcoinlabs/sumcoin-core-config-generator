@@ -1,6 +1,6 @@
 # Sumcoin Core Config Generator
 
-[![Build Status](https://travis-ci.org/jlopp/sumcoin-core-config-generator.svg?branch=master)](https://travis-ci.org/jlopp/sumcoin-core-config-generator) An online generator is [available here](https://jlopp.github.io/sumcoin-core-config-generator)
+
 
 What is this?
 -------------
