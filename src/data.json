@@ -131,7 +131,7 @@
     "pid": {
       "name": "PID file",
       "description": "Specify process ID file name. Ignored for Windows.",
-      "default": "bitcoind.pid"
+      "default": "sumcoind.pid"
     },
     "prune": {
       "name": "Prune Old Blocks",

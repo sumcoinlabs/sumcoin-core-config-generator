@@ -52,6 +52,6 @@ export function basePath (platform) {
 
   return joinPath([
     '~',
-    '.bitcoin'
+    '.sumcoin'
   ], platform);
 }

@@ -1,12 +1,12 @@
 # Bitcoin Core Config Generator
 
-[![Build Status](https://travis-ci.org/jlopp/bitcoin-core-config-generator.svg?branch=master)](https://travis-ci.org/jlopp/bitcoin-core-config-generator) An online generator is [available here](https://jlopp.github.io/bitcoin-core-config-generator)
+[![Build Status](https://travis-ci.org/jlopp/sumcoin-core-config-generator.svg?branch=master)](https://travis-ci.org/jlopp/sumcoin-core-config-generator) An online generator is [available here](https://jlopp.github.io/sumcoin-core-config-generator)
 
 What is this?
 -------------
 
-[Bitcoin](https://bitcoin.org/) is the world's first peer-to-peer digital currency that has no central authority.
-[Bitcoin Core](https://bitcoincore.org) is the original and most popular Bitcoin node software that anyone can use
+[Bitcoin](https://sumcoin.org/) is the world's first peer-to-peer digital currency that has no central authority.
+[Bitcoin Core](https://sumcoincore.org) is the original and most popular Bitcoin node software that anyone can use
 to harness the full security features of the Bitcoin protocol and operate without trusting any third parties. However,
 there are over 140 configuration options for Bitcoin Core and more are added with each release. This generator is meant
 to expose and explain all of those options so that any user can make the most of the flexibility available to them.
