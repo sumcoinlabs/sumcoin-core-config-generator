@@ -1,6 +1,6 @@
 {
   "network": {
-    "port": 8333
+    "port": 3333
   },
   "rpc": {
     "rpcport": 8332

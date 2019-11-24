@@ -1,6 +1,6 @@
 {
   "network": {
-  	"bind": "127.0.0.1:8333",
+  	"bind": "127.0.0.1:3333",
   	"externalip": "your_tor_address.onion",
     "listenonion": 1,
     "onion": 1,
