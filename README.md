@@ -5,7 +5,7 @@
 What is this?
 -------------
 
-[Sumcoin](https://sumcoin.org/) is the world's first peer-to-peer digital currency that has no central authority.
+[Sumcoin](https://sumcoin.org/) is the world's first peer-to-peer digital Index based currency that has no central authority.
 [Sumcoin Core](https://sumcoincore.org) is the original and most popular Sumcoin node software that anyone can use
 to harness the full security features of the Sumcoin protocol and operate without trusting any third parties. However,
 there are over 140 configuration options for Sumcoin Core and more are added with each release. This generator is meant
