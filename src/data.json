@@ -12,8 +12,8 @@
     }
   },
   "core": {
-    "section": "Bitcoin Core",
-    "description": "Basic parameters regarding Bitcoin Core node operation.",
+    "section": "Sumcoin Core",
+    "description": "Basic parameters regarding Sumcoin Core node operation.",
     "alertnotify": {
       "name": "Alert Notification",
       "description": "Execute command when an alert (or long fork) is received (%s in cmd is replaced by message)",
@@ -391,7 +391,7 @@
   },
   "debug": {
     "section": "Debugging & Testing",
-    "description": "Features that help developers who are testing changes to Bitcoin Core.",
+    "description": "Features that help developers who are testing changes to Sumcoin Core.",
     "uacomment": {
       "name": "User Agent Comment",
       "description": "Append comment to the user agent string.",
@@ -668,7 +668,7 @@
     },
     "testnet": {
       "name": "Testnet",
-      "description": "Run this node on the Bitcoin Test Network. Equivalent to -chain=test",
+      "description": "Run this node on the Sumcoin Test Network. Equivalent to -chain=test",
       "default": 0
     },
     "regtest": {
@@ -802,7 +802,7 @@
     },
     "rpcauth": {
       "name": "RPC Auth",
-      "description": "Username and hashed password for JSON-RPC connections. The field <userpw> comes in the format: <USERNAME>:<SALT>$<HASH>. RPC clients connect using rpcuser=<USERNAME>/rpcpassword=<PASSWORD> arguments. You can generate this value with the ./share/rpcauth/rpcauth.py script in the Bitcoin Core repository. This option can be specified multiple times.",
+      "description": "Username and hashed password for JSON-RPC connections. The field <userpw> comes in the format: <USERNAME>:<SALT>$<HASH>. RPC clients connect using rpcuser=<USERNAME>/rpcpassword=<PASSWORD> arguments. You can generate this value with the ./share/rpcauth/rpcauth.py script in the Sumcoin Core repository. This option can be specified multiple times.",
       "default": ""
     },
     "rpcport": {

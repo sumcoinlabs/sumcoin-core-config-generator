@@ -24,7 +24,7 @@ export function localPath (platform) {
       '%UserProfile%',
       'AppData',
       'Roaming',
-      'Bitcoin'
+      'Sumcoin'
     ], platform);
   }
 
@@ -37,7 +37,7 @@ export function basePath (platform) {
       '%UserProfile%',
       'AppData',
       'Roaming',
-      'Bitcoin'
+      'Sumcoin'
     ], platform);
   }
 
@@ -46,7 +46,7 @@ export function basePath (platform) {
       '$HOME',
       'Library',
       'Application Support',
-      'Bitcoin'
+      'Sumcoin'
     ], platform);
   }
 
